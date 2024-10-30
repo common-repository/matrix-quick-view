@@ -1,0 +1,11 @@
+= 1.0.5 | 2022-10-20 =
+- Fixed - .org compatibility issue fixed
+
+= 1.0.3 | 2022-06-19 =
+- Fixed - Conditional load script ( only if WooCommerce activated)
+
+= 1.0.2 | 2022-06-16 =
+- Fixed - Minor bug fixes
+
+= 1.0.1 | 2022-05-27 =
+- Init - Initial Released

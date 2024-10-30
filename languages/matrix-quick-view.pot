@@ -1,0 +1,137 @@
+# Copyright (C) 2022 matrixaddons
+# This file is distributed under the GPL2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Matrix Quick View 1.0.5\n"
+"Report-Msgid-Bugs-To: matrixaddons@gmail.com\n"
+"POT-Creation-Date: 2022-10-22 03:30:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: matrixaddons <matrixaddons@gmail.com>\n"
+"Language-Team: matrixaddons <matrixaddons@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/Admin/Main.php:98
+msgid ""
+"Awesome, you've been using <a "
+"href=\"admin.php?page=wc-settings&tab=quick-view\">WooCommerce Quick "
+"View</a> for more than 1 week. May we ask you to give it a 5-star rating on "
+"WordPress? | <a href=\"%2$s\" target=\"_blank\">Ok, you deserved it</a> | "
+"<a href=\"%1$s\">I alredy did</a> | <a href=\"%1$s\">No, not good enough</a>"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:14
+msgid "Quick View"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:27
+msgid "General Options"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:33
+msgid "Enable Quick View"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:34
+msgid "Enable/disable quick view"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:38
+msgid "You can enable/disable quick view"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:41
+msgid "Enable Quick View on mobile"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:42
+msgid "Enable/disable quick view on mobile"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:46
+msgid "You can enable/disable quick view on mobile"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:49
+#: includes/Admin/Settings/QuickView.php:53
+msgid "Quick View Button Label"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:61
+msgid "Style Options"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:66
+msgid "Modal Background Color"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:68
+#. translators: %s: default color
+msgid "Modal Window Background Color. Default %s."
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:77
+msgid "Close Button Color"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:79
+#. translators: %s: default color
+msgid "Close Button Color. Default %s."
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:88
+msgid "Close Hover Background"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:90
+#. translators: %s: default color
+msgid "Close Button Hover Background Color. Default %s."
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:99
+msgid "Navigation Box Background"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:101
+#. translators: %s: default color
+msgid "Navigation Box Background Color. Default %s."
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:110
+msgid "Navigation Box Text Color"
+msgstr ""
+
+#: includes/Admin/Settings/QuickView.php:112
+#. translators: %s: default color
+msgid "Navigation Box Background Text Color. Default %s."
+msgstr ""
+
+#: includes/Frontend.php:53
+msgid "Placeholder"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Matrix Quick View"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/matrix-quick-view"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Matrix Quick View - WooCommerce Quick View plugin allows you to add a quick "
+"view button in the product archive ( loop )  so that your customer can "
+"quickly view the product without refreshing or navigating the product "
+"description page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "matrixaddons"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/matrixaddons"
+msgstr ""
